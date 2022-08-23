@@ -1,6 +1,6 @@
 # World_Weather_Analysis
-## Overview
-•	This project involves retrieving, analysing and visualizing data using various API's including Open Weather API and Google maps API. The information has be be proceeded for a hypothetical travel company, PlanMyTrip to suggest vacations along with Hotel recommendations and travel itinerary for 4 cities based on the weather preference of the customer.
+## Objective
+This project involves retrieving, analyzing and visualizing data using Open Weather API and Google maps API to recommend travel itenary along with Hotel recommendations  for 4 cities based on the weather preference of the customer.
 
 ## Steps
 * Open Weather API has been utilized to get the list of cities within the customer's weather criteria
