@@ -3,11 +3,16 @@
 This project involves retrieving, analyzing and visualizing data using Open Weather API and Google maps API to recommend travel itenary along with Hotel recommendations  for 4 cities based on the weather preference of the customer.
 
 ## Steps
-* Open Weather API has been utilized to get the list of cities within the customer's weather criteria
-<img width="542" alt="Weather" src="https://user-images.githubusercontent.com/98617082/186264541-ac3f5fee-11de-4bcd-b45d-8bea0a3ecd55.png">
+### 1. Open Weather API has been utilized to get the list of cities within the customer's weather criteria
 
-* Google Nearby API is utlized to get the list of hotels in the preferref location
-* Finally, Google Direction API is utilized for laying out the route itenary between four selected locations.
+![image](https://user-images.githubusercontent.com/98617082/186281973-4ac26a2a-dbcf-4073-a1c6-92ab2a29ac6d.png)
+
+### 2. Google Nearby API is utlized to get the list of hotels in the preferref location
+
+![image](https://user-images.githubusercontent.com/98617082/186282237-d439fc62-ad26-44d5-acb2-9c6cd09a1090.png)
+
+### 3. Finally, Google Direction API is utilized for laying out the route itenary between four selected locations.
+![image](https://user-images.githubusercontent.com/98617082/186282333-52087fde-59d8-48a6-8060-32b894aa11b7.png)
 
 ## Results
 ### Suggested Itenary
